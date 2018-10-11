@@ -10,3 +10,7 @@
  function ninjaBabySelector() {
    return $('#baby-ninja');
  }
+ 
+ function divSelectors() {
+   $('div')
+ }
