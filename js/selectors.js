@@ -12,5 +12,5 @@
  }
  
  function divSelector() {
-  return $('div')
+  return $('div.pics')
  }
