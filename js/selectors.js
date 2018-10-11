@@ -12,11 +12,11 @@
  }
  
  function divSelector() {
-  return $('div.pics')
+  return $('div.pics');
  }
  
  function firstLineItem() {
-   return $('ul li:first')
+   return $('ul li:first');
  }
  
  
