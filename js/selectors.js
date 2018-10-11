@@ -14,3 +14,10 @@
  function divSelector() {
   return $('div.pics')
  }
+ 
+ function firstLineItem() {
+   return $('ul li:first')
+ }
+ 
+ 
+ 
