@@ -15,7 +15,7 @@
   return $('div.pics');
  }
  
- function firstLineItem() {
+ function firstListItem() {
    return $('ul li:first');
  }
  
